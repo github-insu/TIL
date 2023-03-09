@@ -149,10 +149,10 @@ Content 3 | Content 4
 ### **이미지**
 ```python
 글자-url 이미지 연동
-[Imgur]([https://i.imgur.com/4EjEpQX.png](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg))
+[Imgur](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg)
 
 url 이미지 임베드
-![Imgur]([https://i.imgur.com/4EjEpQX.png](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg))
+![Imgur](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg)
 
 글자 - 내부용 이미지 연동
 Format: [alt Text](./images/hamburg.jpg)
@@ -161,10 +161,10 @@ Format: [alt Text](./images/hamburg.jpg)
 Format: ![alt Text](./images/hamburg.jpg)
 ```
 글자-url 이미지 연동
-[Imgur]([https://i.imgur.com/4EjEpQX.png](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg))
+[Imgur](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg)
 
 url 이미지 임베드
-![Imgur]([https://i.imgur.com/4EjEpQX.png](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg))
+![Imgur](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg)
 
 글자 - 내부용 이미지 연동
 Format: [alt Text](./images/hamburg.jpg)
