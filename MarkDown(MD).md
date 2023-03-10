@@ -57,7 +57,7 @@ MarkDown에서 사용하는 문법은 아래와 같습니다.
 
 ### **인용상자**
 ```python
-문장 앞에 '>' 기호를 사용하면 인용상자가 적용
+> 문장 앞에 '>' 기호를 사용하면 인용상자가 적용
 ```
 > 인용상자
 
@@ -65,7 +65,7 @@ MarkDown에서 사용하는 문법은 아래와 같습니다.
 
 ### **인라인 코드**
 ```python
-문단 중간에 `Code`를 넣을 수 있습니다.
+> 문단 중간에 `Code`를 넣을 수 있습니다.
 ```
 예를 들어 `printf("hello world!");` 이런 식으로 들어갑니다.
 
@@ -112,15 +112,15 @@ Ordered
 
 ### **체크박스**
 ```python
-- [] 완료되지 않은 항목
-- [x] 완료된 항목
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> suppored
-- [] 체크박스 문법은 목록형태의 지원이 필요합니다.
+-[] 완료되지 않은 항목
+-[x] 완료된 항목
+-[x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> suppored
+-[] 체크박스 문법은 목록형태의 지원이 필요합니다.
 ```
-- [] 완료되지 않은 항목
-- [x] 완료된 항목
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> suppored
-- [] 체크박스 문법은 목록형태의 지원이 필요
+-[] 완료되지 않은 항목
+-[x] 완료된 항목
+-[x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> suppored
+-[] 체크박스 문법은 목록형태의 지원이 필요
 
 ---
 
