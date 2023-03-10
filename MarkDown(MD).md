@@ -74,7 +74,7 @@ MarkDown에서 사용하는 문법은 아래와 같습니다.
 ### **코드블록**
 > 해당 프로그래밍 언어의 구별 표시를 적용한 코드를 볼수 있습니다.
 > ```python
-> print('hello world!')
+> \print('hello world!')
 > ```
 ```python
 print('hello world!')
@@ -112,15 +112,15 @@ Ordered
 
 ### **체크박스**
 ```python
--[] 완료되지 않은 항목
--[x] 완료된 항목
--[x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> suppored
--[] 체크박스 문법은 목록형태의 지원이 필요합니다.
+- [] 완료되지 않은 항목
+- [x] 완료된 항목
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> suppored
+- [] 체크박스 문법은 목록형태의 지원이 필요합니다.
 ```
--[] 완료되지 않은 항목
--[x] 완료된 항목
--[x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> suppored
--[] 체크박스 문법은 목록형태의 지원이 필요
+- [] 완료되지 않은 항목
+- [x] 완료된 항목
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> suppored
+- [] 체크박스 문법은 목록형태의 지원이 필요
 
 ---
 
