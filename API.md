@@ -35,7 +35,7 @@ good : https://.../movies/A/actors?age=30
 bad  : https://.../movies/A/actors/age=30
 ```  
 4. CRUD에 맞춰서 HTTP Method를 활용합니다.
-> C(Create) : 생성 ⇒ POST
-> R(Read)   : 조회 ⇒ GET
-> U(Update) : 수정 ⇒ PATCH or PUT
-> D(Delete) : 삭제 ⇒ DELETE
+> C(Create) : 생성 ⇒ POST  
+> R(Read)   : 조회 ⇒ GET  
+> U(Update) : 수정 ⇒ PATCH or PUT  
+> D(Delete) : 삭제 ⇒ DELETE  
