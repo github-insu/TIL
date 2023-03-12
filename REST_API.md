@@ -68,6 +68,11 @@ https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
     예시 ```python
     http://api.example.com/toy/product?age=10
     ```  
+7. 마지막에 **확장자명**을 사용하지 않습니다.
+  ```python
+  http://api.example.com/index.html (x)
+  http://api.example.com/index      (o)
+  ```
 
 ---
 
