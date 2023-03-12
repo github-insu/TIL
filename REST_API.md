@@ -65,7 +65,7 @@ https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
 4. **'-'(하이픈)기호** (o) - 가독성을 위해 하이픈을 사용합니다.
 5. Schem과 HOST를 제외한 영역에서는 **대소문자가 구별**되기 때문에 **소문자를 사용**합니다.
 6. 필터 표현은 **쿼리 파라미터**를 사용합니다.  
-    예시 ```python
+    예시 ```python  
     http://api.example.com/toy/product?age=10
     ```  
 7. 마지막에 **확장자명**을 사용하지 않습니다.
