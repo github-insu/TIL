@@ -64,10 +64,10 @@ https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
 3. **'_'(언더스코어)기호** (x) - 일부 화면에서 가려질 수 있기 때문에 혼란을 줄 수 있습니다.
 4. **'-'(하이픈)기호** (o) - 가독성을 위해 하이픈을 사용합니다.
 5. Schem과 HOST를 제외한 영역에서는 **대소문자가 구별**되기 때문에 **소문자를 사용**합니다.
-6. 필터 표현은 **쿼리 파라미터**를 사용합니다.  
-    예시 ```python  
-    http://api.example.com/toy/product?age=10
-    ```  
+6. 필터 표현은 **쿼리 파라미터**를 사용합니다.
+  ```python
+  http://api.example.com/toy/product?age=10
+  ```  
 7. 마지막에 **확장자명**을 사용하지 않습니다.
   ```python
   http://api.example.com/index.html (x)
