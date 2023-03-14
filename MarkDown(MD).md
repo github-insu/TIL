@@ -148,29 +148,29 @@ Content 3 | Content 4
 
 ### **이미지**
 ```python
-글자-url 이미지 연동
-[Imgur](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg)
+글자-url 이미지 연동  
+[Imgur](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg)  
 
-url 이미지 임베드
-![Imgur](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg)
+url 이미지 임베드  
+![Imgur](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg)  
 
-글자 - 내부용 이미지 연동
-Format: [alt Text](./images/hamburg.jpg)
+글자 - 내부용 이미지 연동  
+[alt Text](./images/hamburg.jpg)  
 
-내부용 이미지 임베드
-Format: ![alt Text](./images/hamburg.jpg)
+내부용 이미지 임베드  
+![alt Text](./images/hamburg.jpg)  
 ```
-글자-url 이미지 연동
-[Imgur](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg)
+글자-url 이미지 연동  
+[Imgur](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg)  
 
-url 이미지 임베드
-![Imgur](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg)
+url 이미지 임베드  
+![Imgur](https://cdn.pixabay.com/photo/2023/01/22/16/45/nature-7736939_960_720.jpg)  
 
-글자 - 내부용 이미지 연동
-Format: [alt Text](./images/hamburg.jpg)
+글자 - 내부용 이미지 연동  
+[alt Text](./images/hamburg.jpg)  
 
-내부용 이미지 임베드
-Format: ![alt Text](./images/hamburg.jpg)
+내부용 이미지 임베드  
+![alt Text](./images/hamburg.jpg)  
 
 ---
 
