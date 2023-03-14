@@ -5,6 +5,7 @@
   
 * P
   * Python_open,with
+  * Python_exception
 
 * R  
   * REST_API  
