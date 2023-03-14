@@ -70,7 +70,7 @@ print(f'나이는 {age}입니다.')
 **1. 성능**  
 - try문 내부에서 수행되는 코드는 try문 외부에서 수행되는 코드에 비해 상대적으로 느립니다.
 - 실행시간 측정  
-Format: ![alt Text](./images/timeit.jpg)  
+![alt Text](./images/timeit.jpg)  
 
 > ㄱ.no error checking  ㄴ.try no error  ㄷ.try error  ㄹ.if no error  ㅁ.if error  
 > ㅁ(0.019..) < ㄱ(0.042..) <  ㄴ(0.055..) < ㄹ(0.066..) < ㄷ(0.317..)  
